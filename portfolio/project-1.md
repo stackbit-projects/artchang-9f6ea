@@ -1,6 +1,8 @@
 ---
 title: Land Rover | Wunderman Y+R
-subtitle: Optional Project Subtitle
+subtitle: >-
+  Multiple projects to produce and shoot stills for Land Rover Jaguar N.A.'s
+  commercials.
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
