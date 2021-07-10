@@ -31,11 +31,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
+I am a developer and photographer, founder of [Priime](https://priime.com) and currently working as the VP of Product for [Sunshine Health Studios Inc](https://itrackbites.com).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+I love to merge my passion for visual art and computer science together to create new products that make something people love, better. On this site, you will see a combination of my photography portfolio, projects I'm working on in the tech world, and ramblings about what I have learned.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+I've always said
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+> Community is as important as product. Can't have one without the other. They are symbiotic. Every company needs to focus on and love both.
