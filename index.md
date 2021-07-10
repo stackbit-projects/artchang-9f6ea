@@ -5,9 +5,15 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Art Chang'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I am a developer and photographer, founder of Priime and currently working
+      as the VP of Product for Sunshine Health Studios Inc.
+
+
+      I love to merge my passion for visual art and computer science together to
+      create new products that make something people love, better. On this site,
+      you will see a combination of my photography portfolio, projects I'm
+      working on in the tech world, and ramblings about what I have learned.
     actions:
       - label: Let's talk
         url: /contact
