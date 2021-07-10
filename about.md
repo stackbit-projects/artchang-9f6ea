@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: 'I''m a developer, photographer, and founder'
-image: images/prm-headshots-4.jpg
+image: images/headshot-4-medium.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
