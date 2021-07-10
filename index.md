@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Hi, I''m Art Chang'
     content: >
-      I am a developer and photographer, founder of Priime and currently working
-      as the VP of Product for Sunshine Health Studios Inc.
+      I am a developer and photographer, founder of [Priime](https://priime.com)
+      and currently working as the VP of Product for [Sunshine Health Studios
+      Inc](https://itrackbites.com).
 
 
       I love to merge my passion for visual art and computer science together to
