@@ -19,7 +19,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-  - section_id: latest-projects
+  - section_id: recent-work
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
